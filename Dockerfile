@@ -1,4 +1,4 @@
-M ubuntu
+FROM ubuntu
 
 # File Author / Maintainer
 MAINTAINER Ritesh Shah
